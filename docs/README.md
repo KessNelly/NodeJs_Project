@@ -1,8 +1,8 @@
 # Project Title
-Basic Web Server
+Authiclay
 
 ## Project Description
-A basic web server using Node Js Http Server
+A small sized authenticator system using pure NodeJs, that acts as a 2 Factor authentication for web applications.
 
 ## Prerequisites
 Node Js
