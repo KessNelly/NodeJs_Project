@@ -29,4 +29,19 @@ Jest
 
 - Run test using the command, "npm run test"
 
-- Run Test and fix any failures.
+- Fix any failures.
+
+## Timeline
+3 weeks
+
+## DIfficulty Level
+Difficult
+
+## Lessons
+- Concept of unit testing
+
+- Unit testing using Jest
+
+- Debugging
+
+
